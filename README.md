@@ -7,12 +7,12 @@ This Python project is designed to extract product information from a given URL,
 
 ## Sample Results
 
-
-Q/A	Question	Snippet
-1	Quelle est la meilleure DeLonghi Magnifica ?	Il s'agit d'une version améliorée de la mythique ECAM 22.140. B avec une buse vapeur plus performante, des fonctionnalités plus poussées et un look plus moderne. La gamme Magnifica S Smart de DeLonghi a été élue meilleure machine d'entrée de gamme selon nos tests experts.
-2	Qu'est-ce que ECAM chez DeLonghi ?	Les machines à café Delonghi Ecam via leur grand réservoir d'eau, leur moulin à café performant et leur buse à mousse de lait, proposent des cafés de qualité irréprochable.
-3	Quelle différence entre Magnifica et Magnifica s ?	Verdict. C'est d'une très courte tête que la Magnifica S remporte ce duel. Un chouia plus rapide et plus compacte que la Magnifica Evo, elle offre des performances équivalentes à celles de sa successeure, qui peut toutefois se targuer d'être mieux soignée et d'embarquer un panneau de commande plus complet.
-4	Quand changer le filtre DeLonghi Magnifica Evo ?	Quand changer le filtre de la Delonghi Magnifica S ? Comme expliqué plus haut, il faut changer votre filtre environ tous les 2 mois.
+| Q/A | Question                                           | Snippet                                                                                                                                                                                             |
+|-----|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Quelle est la meilleure DeLonghi Magnifica ?       | Il s'agit d'une version améliorée de la mythique ECAM 22.140. B avec une buse vapeur plus performante, des fonctionnalités plus poussées et un look plus moderne. La gamme Magnifica S Smart de DeLonghi a été élue meilleure machine d'entrée de gamme selon nos tests experts. |
+| 2   | Qu'est-ce que ECAM chez DeLonghi ?                 | Les machines à café Delonghi Ecam via leur grand réservoir d'eau, leur moulin à café performant et leur buse à mousse de lait, proposent des cafés de qualité irréprochable.                                                               |
+| 3   | Quelle différence entre Magnifica et Magnifica s ? | Verdict. C'est d'une très courte tête que la Magnifica S remporte ce duel. Un chouia plus rapide et plus compacte que la Magnifica Evo, elle offre des performances équivalentes à celles de sa successeure, qui peut toutefois se targuer d'être mieux soignée et d'embarquer un panneau de commande plus complet. |
+| 4   | Quand changer le filtre DeLonghi Magnifica Evo ?   | Quand changer le filtre de la Delonghi Magnifica S ? Comme expliqué plus haut, il faut changer votre filtre environ tous les 2 mois.                                                                                                        |
 
 
 ## Features
