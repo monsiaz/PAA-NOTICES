@@ -1,0 +1,877 @@
+{
+    "search_metadata": {
+        "id": "66a9dec6d3aba24f6e2ac6f0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/da42ba24b0a2a3c0/66a9dec6d3aba24f6e2ac6f0.json",
+        "created_at": "2024-07-31 06:50:46 UTC",
+        "processed_at": "2024-07-31 06:50:46 UTC",
+        "google_url": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&oq=DeLonghi+Magnifica+Evo+ECAM290.61.B&uule=w+CAIQICIgUGFyaXMsUGFyaXMsSWxlLWRlLUZyYW5jZSxGcmFuY2U&hl=fr&gl=fr&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/da42ba24b0a2a3c0/66a9dec6d3aba24f6e2ac6f0.html",
+        "total_time_taken": 2.38
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "DeLonghi Magnifica Evo ECAM290.61.B",
+        "location_requested": "Paris, Paris, Ile-de-France, France",
+        "location_used": "Paris,Paris,Ile-de-France,France",
+        "google_domain": "google.fr",
+        "hl": "fr",
+        "gl": "fr",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "DeLonghi Magnifica Evo ECAM290.61.B",
+        "total_results": 183000,
+        "time_taken_displayed": 0.35,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "shopping_results": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Delonghi - Expresso avec Broyeur Magnifica Evo - ECAM290.51.B",
+            "price": "399,99\u00a0\u20ac",
+            "extracted_price": 399.99,
+            "old_price": "600\u00a0\u20ac",
+            "extracted_old_price": 600,
+            "link": "https://www.carrefour.fr/p/expresso-avec-broyeur-magnifica-eva-ecam290-51-b-delonghi-8004399027039",
+            "source": "Carrefour.fr",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a46dc4a3c2ecebf5f4c2fd1fd64e917b0.webp",
+            "extensions": [
+                "Promotion",
+                "Livraison gratuite",
+                "Delonghi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Google",
+            "publisher_link": "https://www.google.com/search?tbm=shop&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "DeLonghi - DELONGHI Magnifica EVO FEB 2961.B LatteCrema Garantie 5 ans",
+            "price": "499,00\u00a0\u20ac",
+            "extracted_price": 499.0,
+            "link": "https://www.maxicoffee.com/delonghi-magnifica-evo-2961b-p-121056.html?utm_source=organic&utm_medium=googleshopping",
+            "source": "MaxiCoffee.com",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a12177fc814b4527569e91ac645e52735.webp",
+            "extensions": [
+                "30\u00a0\u20ac de remise",
+                "469 \u20ac apr\u00e8s...",
+                "Livraison gratuite",
+                "DeLonghi",
+                "Magnifica",
+                "Super automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Feed Price",
+            "publisher_link": "https://www.feed-price.com/search/DeLonghi%20Magnifica%20Evo%20ECAM290.61.B?utm_source=google&utm_medium=css"
+        },
+        {
+            "position": 3,
+            "block_position": "top",
+            "title": "De'Longhi Magnifica Evo Machine a Caf\u00e9 Grain ECAM292.81.B, Machine Expresso et Cappucino, 1.8L, 1450W, Noir [Exclusif Amazon]",
+            "price": "499,99\u00a0\u20ac",
+            "extracted_price": 499.99,
+            "link": "https://www.amazon.fr/DeLonghi-Magnifica-Machine-Cappucino-ECAM292-81-B/dp/B09CGRQ965?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1X6FK5RDHNB96",
+            "source": "Amazon.fr",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a810770ff2e3eef07e611bf4682cb7502.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "De'Longhi",
+                "Magnifica",
+                "Super automatique",
+                "1,2 litres"
+            ],
+            "publisher": "Par Kelkoo",
+            "publisher_link": "https://www.kelkoo.com/ss-DeLonghi%20Magnifica%20Evo%20ECAM290.61.B.html"
+        },
+        {
+            "position": 4,
+            "block_position": "top",
+            "title": "Delonghi Magnifica evo FEB2961.SB silver et noir Expresso avec broyeur",
+            "price": "479,99\u00a0\u20ac",
+            "extracted_price": 479.99,
+            "old_price": "670\u00a0\u20ac",
+            "extracted_old_price": 670,
+            "link": "https://www.darty.com/nav/achat/petit_electromenager/expresso_cafetiere/expresso_avec_broyeur/delonghi_feb2961_sb.html?store=907037",
+            "source": "Darty.com",
+            "rating": 4.4,
+            "reviews": 55,
+            "reviews_original": "55",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a4a18331e56ca0c8c82665f3199a7e33e.webp",
+            "extensions": [
+                "Retrait auj",
+                "Promotion",
+                "Delonghi",
+                "Magnifica",
+                "SB",
+                "Super automatique"
+            ],
+            "publisher": "Par Google",
+            "publisher_link": "https://www.google.com/search?tbm=shop&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 5,
+            "block_position": "top",
+            "title": "Expresso Avec Broyeur Delonghi Ecam 290.61.b Magnifica Evo Latte",
+            "price": "459,00\u00a0\u20ac",
+            "extracted_price": 459.0,
+            "link": "https://www.electrodepot.fr/expresso-avec-broyeur-delonghi-ecam-290-61-b-evo-lait.html",
+            "source": "Electro Depot",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a534c7f5da20819255bca98ef7d5ca882.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "Delonghi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par MeilleurVendeur",
+            "publisher_link": "https://www.meilleurvendeur.com/search.php?q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B&searchmode=MV&utm_source=google&utm_medium=cpc&utm_campaign=shopping"
+        },
+        {
+            "position": 6,
+            "block_position": "top",
+            "title": "DELONGHI Expresso Broyeur magnifica evo feb2961.b",
+            "price": "499,99\u00a0\u20ac",
+            "extracted_price": 499.99,
+            "old_price": "670\u00a0\u20ac",
+            "extracted_old_price": 670,
+            "link": "https://www.boulanger.com/ref/1166118",
+            "source": "Boulanger",
+            "rating": 4.4,
+            "reviews": 55,
+            "reviews_original": "55",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a3d69d56a9511328c04ceb0026c0da2db.webp",
+            "extensions": [
+                "Promotion",
+                "Livraison gratuite",
+                "DELONGHI",
+                "Magnifica",
+                "Super automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Keyade",
+            "publisher_link": "https://shopping.keyade.com/?q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 7,
+            "block_position": "top",
+            "title": "Machine Expresso Delonghi Magnifica Evo ECAM290.61.B",
+            "price": "529,00\u00a0\u20ac",
+            "extracted_price": 529.0,
+            "link": "https://e.leclerc/fp/8004399021396?offer_id=o-8004399021396",
+            "source": "E.Leclerc",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785aabb60545ca40124d34671d19d99fb48a.webp",
+            "extensions": [
+                "Retrait ven.",
+                "Delonghi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Google",
+            "publisher_link": "https://www.google.com/search?tbm=shop&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 8,
+            "block_position": "top",
+            "title": "De'Longhi Magnifica Evo ECAM292.81.B EX:2",
+            "price": "569,90\u00a0\u20ac",
+            "extracted_price": 569.9,
+            "link": "https://www.delonghi.com/fr-fr/ecam292-81-b-ex-2-expresso-broyeur-automatique-magnifica-evo/p/ECAM292.81.B%20EX%3A2",
+            "source": "delonghi.fr",
+            "rating": 4.4,
+            "reviews": 176,
+            "reviews_original": "176",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a40f88b3c777b412044d7471253bf08d9.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "De'Longhi",
+                "Magnifica",
+                "Super automatique",
+                "1,2 litres"
+            ],
+            "publisher": "Par Google",
+            "publisher_link": "https://www.google.com/search?tbm=shop&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 9,
+            "block_position": "top",
+            "title": "DeLonghi Magnifica Evo ECAM 290.81.TB - noire/argent machine \u00e0 caf\u00e9 \u00e0 grain",
+            "price": "469,00\u00a0\u20ac",
+            "extracted_price": 469.0,
+            "old_price": "499\u00a0\u20ac",
+            "extracted_old_price": 499,
+            "link": "https://www.coffeefriend.fr/p/machine-a-cafe-delonghi-magnifica-evo-ecam290-81-tb/",
+            "source": "coffeefriend.fr",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a1d4399471f30e771b047d1de8da1500f.webp",
+            "extensions": [
+                "Promotion",
+                "Livraison gratuite",
+                "DeLonghi",
+                "Magnifica",
+                "Super automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Smarketer",
+            "publisher_link": "https://smarketer.shopping/search?utm_source=google&utm_medium=css&query=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 10,
+            "block_position": "top",
+            "title": "De'Longhi Magnifica Evo ECAM292.52.GB, Machine Automatique \u00e0 Caf\u00e9 en Grains, Broyeur Int\u00e9gr\u00e9, Panneau de Commande \u00e0 Ic\u00f4nes Blanc et Noir,",
+            "price": "399,99\u00a0\u20ac",
+            "extracted_price": 399.99,
+            "link": "https://www.amazon.fr/DeLonghi-ECAM292-52-GB-Automatique-Technologie-LatteCrema/dp/B0BX4PP236?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1X6FK5RDHNB96",
+            "source": "Amazon.fr",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785af6650a0fce5370ba82c8a9b5950f1069.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "De'Longhi",
+                "Magnifica",
+                "Super automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Kelkoo",
+            "publisher_link": "https://www.kelkoo.com/ss-DeLonghi%20Magnifica%20Evo%20ECAM290.61.B.html"
+        },
+        {
+            "position": 11,
+            "block_position": "top",
+            "title": "De'Longhi Magnifica Evo ECAM290.61.B - Machine \u00e0 caf\u00e9 automatique a...",
+            "price": "482,52\u00a0\u20ac",
+            "extracted_price": 482.52,
+            "link": "https://fr.shopping.rakuten.com/offer/buy/7245897664/delonghi-ecam290-61-b-magnifica-evo-automatic-espresso.html?fbbaid=15786532833&t=180196",
+            "source": "Rakuten",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a432da0b5891d9cad75b4e579b7137b80.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "De'Longhi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Productcaster",
+            "publisher_link": "https://css.productcaster.com/search?q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B&utm_source=by_productcaster&utm_medium=referral"
+        },
+        {
+            "position": 12,
+            "block_position": "top",
+            "title": "Magnifica Start Feb 2262.b - Delonghi - Tr\u00e8s Bon \u00c9tat",
+            "price": "369,99\u00a0\u20ac",
+            "extracted_price": 369.99,
+            "link": "https://www.maxicoffee.com/machine-auto-magnifica-start-2262b-delonghi-tres-bon-etat-p-173553.html?utm_source=organic&utm_medium=googleshopping",
+            "source": "MaxiCoffee.com",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a74deaa1959a89d5395b7b8644ebaa728.webp",
+            "extensions": [
+                "30\u00a0\u20ac de remise",
+                "340 \u20ac apr\u00e8s...",
+                "Livraison gratuite",
+                "Delonghi",
+                "Magnifica Start",
+                "Super automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Feed Price",
+            "publisher_link": "https://www.feed-price.com/search/DeLonghi%20Magnifica%20Evo%20ECAM290.61.B?utm_source=google&utm_medium=css"
+        },
+        {
+            "position": 13,
+            "block_position": "top",
+            "title": "Machine \u00e0 caf\u00e9 d'occasion De'Longhi \"Magnifica Evo ECAM290.61.B\"",
+            "price": "389,00\u00a0\u20ac",
+            "extracted_price": 389.0,
+            "link": "https://www.coffeefriend.fr/p/machine-a-cafe-doccasion-delonghi-magnifica-evo-ecam290-61-b/",
+            "source": "Coffee friend",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a6801c463784e91b6734b7b04c55aee27.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "De'Longhi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Kelkoo",
+            "publisher_link": "https://www.kelkoo.fr/recherche?kpartnerid=96954657&mots=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 14,
+            "block_position": "top",
+            "title": "DELONGHI Robot expresso Broyeur ECAM 290.42.TB Magnifica Evo ECAM29042TB",
+            "price": "425,00\u00a0\u20ac",
+            "extracted_price": 425.0,
+            "link": "https://www.u-techno.fr//p/robot-expresso/ecam29042tb",
+            "source": "U Techno",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a7d2a0b5acd8820f9679e948a41918b9b.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "DELONGHI",
+                "Magnifica",
+                "Super automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Google",
+            "publisher_link": "https://www.google.com/search?tbm=shop&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 15,
+            "block_position": "top",
+            "title": "Machine expresso automatique avec broyeur De'longhi Magnifica Evo Ecam290.61.B technologie boissons lact\u00e9es, Noir",
+            "price": "469,99\u00a0\u20ac",
+            "extracted_price": 469.99,
+            "link": "https://www.cdiscount.com/electromenager/petit-dejeuner-cafe/machine-expresso-automatique-avec-broyeur-de-longh/f-1101727-del8004399021396.html",
+            "source": "cdiscount.com",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785af0f7cc2d20bc2317651f42f5bbbab91c.webp",
+            "extensions": [
+                "Livraison gratuite",
+                "De'longhi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Producthero",
+            "publisher_link": "https://producthero.com/?utm_source=google&utm_medium=css&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 16,
+            "block_position": "top",
+            "title": "Cafeti\u00e8re Expresso Broyeur Delonghi Magnifica Evo ECAM290.21.B",
+            "price": "389,00\u00a0\u20ac",
+            "extracted_price": 389.0,
+            "link": "https://e.leclerc/fp/8004399021358",
+            "source": "E.Leclerc",
+            "rating": 4.5,
+            "reviews": 330,
+            "reviews_original": "330",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/942a0d83f3a428a57e07d4a52dd8785a8f9270a0930f9aa0dd3227a40b0a3e40.webp",
+            "extensions": [
+                "Retrait ven.",
+                "Delonghi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Google",
+            "publisher_link": "https://www.google.com/search?tbm=shop&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 17,
+            "block_position": "top",
+            "title": "Delonghi Magnifica Evo, Machine Expresso Avec Broyeur, Technologie Boissons Lactees, Ecam290.61.b, Noir",
+            "price": "523,01\u00a0\u20ac",
+            "extracted_price": 523.01,
+            "link": "https://www.metro.fr/marketplace/product/8476aeaf-0d8e-4038-bb74-db8f1a064660?mfeed_oid=5fe803b6-531a-4ab3-a8fb-b63561ab1e8b&mfeed_bm=1",
+            "source": "metro.fr",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR1t3DWKz4P-QVI8rwC0SuGS5rq8F8cmnQv8gePjLMoSqdvT_CdzRPJ7UwNzw18GvMjc83meOJo5U-3SvRDdb0B1oxn2QxQwHhXJ1S9DS4a65k3ryzbZT3M3B0o8swyCmbuzN6MPQ&usqp=CAc",
+            "extensions": [
+                "Livraison gratuite",
+                "Delonghi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Adference Shopping",
+            "publisher_link": "https://shopping.adference.io/products?searchQuery=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B&utm_term=direktlink"
+        },
+        {
+            "position": 18,
+            "block_position": "top",
+            "title": "De'Longhi Magnifica Evo ECAM290.61.B - Machine \u00e0 caf\u00e9 automatique avec buse vapeur Cappuccino\" - 15 bar - noir\"",
+            "price": "420,00\u00a0\u20ac",
+            "extracted_price": 420.0,
+            "link": "https://www.meubles.fr/electromenager/petit-electromenager/machines-a-cafe?data-sheet=135c2aef61d1c5127226c822c7905d0d",
+            "source": "meubles.fr",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTILGA4GxA3JUfDS4GAbMQuWhrcu5XX0E5ARbDJ4YgMmeg0qsMcNPbvarBjM4DdmRI4J3x-O01SgUMWELQELkwK-KcNzT5JWgKUwNNJuG7tJ-isGEXT_Qo6222dAHFzMkzYQWb5j_ALQ&usqp=CAc",
+            "extensions": [
+                "De'Longhi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ]
+        },
+        {
+            "position": 19,
+            "block_position": "top",
+            "title": "De'longhi Magnifica Evo Ecam290.61.B Cafeti\u00e8re Expresso Automatique 15 Bars",
+            "price": "468,00\u00a0\u20ac",
+            "extracted_price": 468.0,
+            "link": "https://www.pccomponentes.fr/delonghi-magnifica-evo-ecam29061b-cafetiere-expresso-automatique-15-bars",
+            "source": "PcComponentes",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7Ymkd1xbnnShK4ibEWmEWp9KGIExWdIXAOIO4pOevZkC6h6vqMtRrRLl_GNBpSx0iE0_4mz1O_lly63pKXo17PM3MRI70ts4JFBHX9J54aDN-kZDyCw06nzsp9fYhipx3JuYGsShMlQ&usqp=CAc",
+            "extensions": [
+                "Livraison gratuite",
+                "De'longhi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Globerada",
+            "publisher_link": "https://www.globerada.com/search.php?utm_source=google&utm_medium=css&utm_content=viewmore&utm_term=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B&q=DeLonghi%20Magnifica%20Evo%20ECAM290.61.B"
+        },
+        {
+            "position": 20,
+            "block_position": "top",
+            "title": "Delonghi - Magnifica Evo, Machine expresso avec broyeur, technologie boissons lactees, ECAM290.61.B, Noir",
+            "price": "552,29\u00a0\u20ac",
+            "extracted_price": 552.29,
+            "link": "https://www.manomano.fr/cafetiere-expresso-5198?model_id=46578950",
+            "source": "ManoMano.fr",
+            "rating": 4.5,
+            "reviews": 1000,
+            "reviews_original": "1k+",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRhtqRkX9mPYAKqYYu8HftxEobEiv6n-JPDAehOt-vEkEZh169qqR4-ds6a2q-ceIKG90Lz-qglwQMybP-PQxzt9AwzS9TzL2rl3BXH0sibZP3SfhvE00UotCIBHi-yNomcjYvd8Q&usqp=CAc",
+            "extensions": [
+                "Livraison gratuite",
+                "Delonghi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ],
+            "publisher": "Par Feed Price",
+            "publisher_link": "https://www.feed-price.com/search/DeLonghi%20Magnifica%20Evo%20ECAM290.61.B?utm_source=google&utm_medium=css"
+        },
+        {
+            "position": 21,
+            "block_position": "top",
+            "title": "De'Longhi Magnifica Evo ECAM290.61.B",
+            "price": "466,00\u00a0\u20ac",
+            "extracted_price": 466.0,
+            "link": "https://www.idealo.fr/prix/201745545/de-longhi-magnifica-evo-ecam290-61-b.html?shopping=2",
+            "source": "idealo France",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRSCuUopEaVtI18SR-gGgVUyUNQ9NabRjFiXA2q2sLvyYKWqx5mAr5PyZMlClQVSLkRUpRr-qbW2WGnOo9tvJ8NC_6w7R_hjLIOU6_bdUBk5pr6MgRHmc3k-uNsPY98z0tZKoAfCg0&usqp=CAc",
+            "extensions": [
+                "De'Longhi",
+                "Magnifica",
+                "Automatique",
+                "1,8 litres"
+            ]
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Magnifica Evo | ECAM290.61.B | Discover Our Product",
+            "link": "https://www.youtube.com/watch?v=01vzp0OdPn0",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/74e7ab28f3b9a1d175293c2f30941c2bcf2ca0d805b2be58410e229e7d7e7d4a.jpeg",
+            "channel": "De'Longhi Global",
+            "duration": "0:56",
+            "platform": "YouTube",
+            "date": "9 janv. 2023"
+        },
+        {
+            "position": 2,
+            "title": "Nous avons test\u00e9 la machine \u00e0 caf\u00e9 DELONGHI MAGNIFICA ...",
+            "link": "https://www.youtube.com/watch?v=Axlmh9SLRis",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/74e7ab28f3b9a1d1ee08822b3ae6cbcc3eee4597db0e00299f0263c5a5f4050c.jpeg",
+            "channel": "MaxiCoffee",
+            "duration": "11:49",
+            "platform": "YouTube",
+            "date": "11 f\u00e9vr. 2022",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "Introduction",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUsAPdd3D3bg2HKjAK5mgMWpb5RoELTYdbenmP60I8g&s"
+                },
+                {
+                    "time": "00:34",
+                    "title": "Lancement de 2 expressos",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=34",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY3dusT-1UMwVrhV2AuUe9O1Z7nftIiQn91v3KuzWhpA&s"
+                },
+                {
+                    "time": "02:18",
+                    "title": "R\u00e9sultat caf\u00e9",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=138",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37va8tKay84L1zTpzbcQzqg0taSNmx-Yg6lhApXvN4Q&s"
+                },
+                {
+                    "time": "03:04",
+                    "title": "R\u00e9glage Broyeur",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=184",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHlkJdh5dO1Ld2aLejfBOajj6wYAB2mAH9ogOfBeCPCw&s"
+                },
+                {
+                    "time": "03:36",
+                    "title": "Trappe \u00e0 moulu",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=216",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtm-e2Q026se4ko74X4sxMjwOwwwtlahlV_miEsu1Tg&s"
+                },
+                {
+                    "time": "04:33",
+                    "title": "R\u00e9servoir \u00e0 eaux",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=273",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEz6SQQo2Gqn7UszsIFad0Bnijbamm4N4VXW8ccNHztg&s"
+                },
+                {
+                    "time": "05:09",
+                    "title": "R\u00e9servoir des eaux us\u00e9es",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=309",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSun-6QNIrlwmnguFWWv1irN14-qXQ8b4GNXXdq_eMxsQ&s"
+                },
+                {
+                    "time": "06:00",
+                    "title": "Installation carafe \u00e0 lait",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=360",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3V5XJg4mZy-Oo7aOlNQZ7h0LOlkxnWAPbNSrYSNyC6w&s"
+                },
+                {
+                    "time": "07:11",
+                    "title": "Extraction Latte Macchiato",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=431",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9597L59uQTcum4NmmHinoHbl6DNatm69D-Px1P7eTtQ&s"
+                },
+                {
+                    "time": "07:36",
+                    "title": "Entretien machine",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=456",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzgqThgoJARWJ-SjaAuLx4DrTSFpZhZCVcc4yCBSUOA&s"
+                },
+                {
+                    "time": "09:11",
+                    "title": "Repose tasse",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=551",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHZPldcy_x0NUVBh8c-5mwZhZyvjTj0P_rwM6LK6H0Og&s"
+                },
+                {
+                    "time": "11:00",
+                    "title": "Conclusion",
+                    "link": "https://www.youtube.com/watch?v=Axlmh9SLRis&t=660",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqTaGCCw_PFahrQsuygC9p9HC4uz2ftoZnnF7kNGo7lQ&s"
+                }
+            ]
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Quelle est la meilleure DeLonghi Magnifica ?",
+            "snippet": "Il s'agit d'une version am\u00e9lior\u00e9e de la mythique ECAM 22.140. B avec une buse vapeur plus performante, des fonctionnalit\u00e9s plus pouss\u00e9es et un look plus moderne. La gamme Magnifica S Smart de DeLonghi a \u00e9t\u00e9 \u00e9lue meilleure machine d'entr\u00e9e de gamme selon nos tests experts.",
+            "title": "Quelle DeLonghi Magnifica choisir ? - Nos conseils",
+            "date": "22 f\u00e9vr. 2024",
+            "link": "https://www.coffee-spirit.maxicoffee.com/guide/quelles-machines-cafe-grain-magnifica-delonghi-choisir/#:~:text=Il%20s'agit%20d'une,gamme%20selon%20nos%20tests%20experts.",
+            "displayed_link": "https://www.coffee-spirit.maxicoffee.com \u203a guide \u203a quell...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStocZGnQWoCoTUnkNUTisEHpTZkHkpnTBJY-pKVxiQPw&s",
+            "source_logo": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/907178b7bc90c5ee093cff6df9c74e9cff38fa7d559a19e8cf5ca457dbd87a64.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXVlbGxlIGVzdCBsYSBtZWlsbGV1cmUgRGVMb25naGkgTWFnbmlmaWNhID8iLCJsayI6IkdpcHhkV1ZzYkdVZ1pYTjBJR3hoSUcxbGFXeHNaWFZ5WlNCa1pXeHZibWRvYVNCdFlXZHVhV1pwWTJFIiwiYnMiOiJjM1dRUFFyQ1FCQ0ZzZDNLVXRJNHBGQVFGVTBPSUtLcDFDSW5rQ1daSkl1N0dfSmJXSG9id1V1SWpjZHlNQWtKYU1ySHZPLTl4N0F6bTdzRlNvbUFXUTZTZzBKQnFrZ1I5bmlNZFJnSk9QRlFpMEI0SERhajU4U2FHN09rQl9GUlZvaHFFSFpncGx0TXlibndFSWdEWjdjOWdSZmh0UzNZak40WHl6VG9fSTJzamVoeFZSbWJXS2FZWGFfMVJSQzg3aWxxTXFQT3FidGRpWGxIWkpULUdGdTJzVTc2U05VbFc1R3hrSzNjZ211ZlZuQWRZZ3FFQjBMbV81X2psREYxM1JKclpTeVRIdXozUVlCbFBCeDhBQSIsImlkIjoiZmNfNCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXVlbGxlIGVzdCBsYSBtZWlsbGV1cmUgRGVMb25naGkgTWFnbmlmaWNhID8iLCJsayI6IkdpcHhkV1ZzYkdVZ1pYTjBJR3hoSUcxbGFXeHNaWFZ5WlNCa1pXeHZibWRvYVNCdFlXZHVhV1pwWTJFIiwiYnMiOiJjM1dRUFFyQ1FCQ0ZzZDNLVXRJNHBGQVFGVTBPSUtLcDFDSW5rQ1daSkl1N0dfSmJXSG9id1V1SWpjZHlNQWtKYU1ySHZPLTl4N0F6bTdzRlNvbUFXUTZTZzBKQnFrZ1I5bmlNZFJnSk9QRlFpMEI0SERhajU4U2FHN09rQl9GUlZvaHFFSFpncGx0TXlibndFSWdEWjdjOWdSZmh0UzNZak40WHl6VG9fSTJzamVoeFZSbWJXS2FZWGFfMVJSQzg3aWxxTXFQT3FidGRpWGxIWkpULUdGdTJzVTc2U05VbFc1R3hrSzNjZ211ZlZuQWRZZ3FFQjBMbV81X2psREYxM1JKclpTeVRIdXozUVlCbFBCeDhBQSIsImlkIjoiZmNfNCJ9"
+        },
+        {
+            "question": "Qu'est-ce que ECAM chez DeLonghi ?",
+            "snippet": "Les machines \u00e0 caf\u00e9 Delonghi Ecam via leur grand r\u00e9servoir d'eau, leur moulin \u00e0 caf\u00e9 performant et leur buse \u00e0 mousse de lait, proposent des caf\u00e9s de qualit\u00e9 irr\u00e9prochable .",
+            "title": "Delonghi ECAM : la gamme des machines \u00e0 caf\u00e9 avec broyeur",
+            "link": "https://www.maxicoffee.com/delonghi-ecam-c-1377_181_1058.html#:~:text=Les%20machines%20%C3%A0%20caf%C3%A9%20Delonghi,des%20caf%C3%A9s%20de%20qualit%C3%A9%20irr%C3%A9prochable%20.",
+            "displayed_link": "https://www.maxicoffee.com \u203a delonghi-ecam-c-1377_1...",
+            "source_logo": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/907178b7bc90c5ee093cff6df9c74e9c8b8a09b3a82f62c90c357561398d1b9f.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXUnZXN0LWNlIHF1ZSBFQ0FNIGNoZXogRGVMb25naGkgPyIsImxrIjoiR2lCeGRTQmxjM1FnWTJVZ2NYVmxJR1ZqWVcwZ1kyaGxlaUJrWld4dmJtZG9hUSIsImJzIjoiYzNXUVBRckNRQkNGc2QzS1V0STRwRkFRRlUwT0lLS3AxQ0lua0NXWkpJdTdHX0piV0hvYndVdUlqY2R5TUFrSmFNckh2Ty05eDdBem03c0ZTb21BV1E2U2cwSkJxa2dSOW5pTWRSZ0pPUEZRaTBCNEhEYWo1OFNhRzdPa0JfRlJWb2hxRUhaZ3BsdE15Ym53RUlnRFo3YzlnUmZodFMzWWpONFh5elRvX0kyc2plaHhWUm1iV0thWVhhXzFSUkM4N2lscU1xUE9xYnRkaVhsSFpKVC1HRnUyc1U3NlNOVWxXNUd4a0szY2dtdWZWbkFkWWdxRUIwTG1fNV9qbERGMTNSSnJaU3lUSHV6M1FZQmxQQng4QUEiLCJpZCI6ImZjXzQifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXUnZXN0LWNlIHF1ZSBFQ0FNIGNoZXogRGVMb25naGkgPyIsImxrIjoiR2lCeGRTQmxjM1FnWTJVZ2NYVmxJR1ZqWVcwZ1kyaGxlaUJrWld4dmJtZG9hUSIsImJzIjoiYzNXUVBRckNRQkNGc2QzS1V0STRwRkFRRlUwT0lLS3AxQ0lua0NXWkpJdTdHX0piV0hvYndVdUlqY2R5TUFrSmFNckh2Ty05eDdBem03c0ZTb21BV1E2U2cwSkJxa2dSOW5pTWRSZ0pPUEZRaTBCNEhEYWo1OFNhRzdPa0JfRlJWb2hxRUhaZ3BsdE15Ym53RUlnRFo3YzlnUmZodFMzWWpONFh5elRvX0kyc2plaHhWUm1iV0thWVhhXzFSUkM4N2lscU1xUE9xYnRkaVhsSFpKVC1HRnUyc1U3NlNOVWxXNUd4a0szY2dtdWZWbkFkWWdxRUIwTG1fNV9qbERGMTNSSnJaU3lUSHV6M1FZQmxQQng4QUEiLCJpZCI6ImZjXzQifQ%3D%3D"
+        },
+        {
+            "question": "Quelle diff\u00e9rence entre Magnifica et Magnifica s ?",
+            "snippet": "Verdict. C'est d'une tr\u00e8s courte t\u00eate que la Magnifica S remporte ce duel. Un chouia plus rapide et plus compacte que la Magnifica Evo, elle offre des performances \u00e9quivalentes \u00e0 celles de sa successeure, qui peut toutefois se targuer d'\u00eatre mieux soign\u00e9e et d'embarquer un panneau de commande plus complet.",
+            "title": "Comparatif Duel : Delonghi Magnifica S vs Magnifica EVO FEB2942.TB",
+            "date": "28 oct. 2021",
+            "link": "https://www.lesnumeriques.com/cafetiere-automatique/face-a-face/52339-65205.html#:~:text=Verdict,panneau%20de%20commande%20plus%20complet.",
+            "displayed_link": "https://www.lesnumeriques.com \u203a face-a-face",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtX6no9NGWsyaG1eprvEoN7PTGZF1wnw6qlA3tT3F5A&s",
+            "source_logo": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/907178b7bc90c5ee093cff6df9c74e9ca79a9a19fb18fab734ef8fc3b47944c2.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXVlbGxlIGRpZmbDqXJlbmNlIGVudHJlIE1hZ25pZmljYSBldCBNYWduaWZpY2EgcyA/IiwibGsiOiJjNU15TEN4TnpjbEpWVWpKVEVzN3ZMSW9OUzg1VlNFMXI2UW9WU0UzTVQwdk15MHpPVkVodFFTSlV3d0EiLCJicyI6ImMzV1FQUXJDUUJDRnNkM0tVdEk0cEZBUUZVME9JS0twMUNJbmtDV1pKSXU3R19KYldIb2J3VXVJamNkeU1Ba0phTXJIdk8tOXg3QXptN3NGU29tQVdRNlNnMEpCcWtnUjluaU1kUmdKT1BGUWkwQjRIRGFqNThTYUc3T2tCX0ZSVm9ocUVIWmdwbHRNeWJud0VJZ0RaN2M5Z1JmaHRTM1lqTjRYeXpUb19JMnNqZWh4VlJtYldLYVlYYV8xUlJDODdpbHFNcVBPcWJ0ZGlYbEhaSlQtR0Z1MnNVNzZTTlVsVzVHeGtLM2NnbXVmVm5BZFlncUVCMExtXzVfamxERjEzUkpyWlN5VEh1ejNRWUJsUEJ4OEFBIiwiaWQiOiJmY180In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXVlbGxlIGRpZmbDqXJlbmNlIGVudHJlIE1hZ25pZmljYSBldCBNYWduaWZpY2EgcyA%2FIiwibGsiOiJjNU15TEN4TnpjbEpWVWpKVEVzN3ZMSW9OUzg1VlNFMXI2UW9WU0UzTVQwdk15MHpPVkVodFFTSlV3d0EiLCJicyI6ImMzV1FQUXJDUUJDRnNkM0tVdEk0cEZBUUZVME9JS0twMUNJbmtDV1pKSXU3R19KYldIb2J3VXVJamNkeU1Ba0phTXJIdk8tOXg3QXptN3NGU29tQVdRNlNnMEpCcWtnUjluaU1kUmdKT1BGUWkwQjRIRGFqNThTYUc3T2tCX0ZSVm9ocUVIWmdwbHRNeWJud0VJZ0RaN2M5Z1JmaHRTM1lqTjRYeXpUb19JMnNqZWh4VlJtYldLYVlYYV8xUlJDODdpbHFNcVBPcWJ0ZGlYbEhaSlQtR0Z1MnNVNzZTTlVsVzVHeGtLM2NnbXVmVm5BZFlncUVCMExtXzVfamxERjEzUkpyWlN5VEh1ejNRWUJsUEJ4OEFBIiwiaWQiOiJmY180In0%3D"
+        },
+        {
+            "question": "Quand changer le filtre DeLonghi Magnifica Evo ?",
+            "snippet": "Quand changer le filtre de la Delonghi Magnifica S ? Comme expliqu\u00e9 plus haut, il faut changer votre filtre environ tous les 2 mois.",
+            "title": "Installer filtre DeLonghi Magnifica S : les \u00e9tapes",
+            "date": "31 mars 2023",
+            "link": "https://www.coffee-spirit.maxicoffee.com/tuto/installer-une-cartouche-filtrante-dans-votre-machine-expresso-delonghi/#:~:text=Quand%20changer%20le%20filtre%20de,environ%20tous%20les%202%20mois.",
+            "displayed_link": "https://www.coffee-spirit.maxicoffee.com \u203a tuto \u203a installe...",
+            "source_logo": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/907178b7bc90c5ee093cff6df9c74e9c24fd09075b79266a5ff74d219ae4a324.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXVhbmQgY2hhbmdlciBsZSBmaWx0cmUgRGVMb25naGkgTWFnbmlmaWNhIEV2byA/IiwibGsiOiJHaTV4ZFdGdVpDQmphR0Z1WjJWeUlHeGxJR1pwYkhSeVpTQmtaV3h2Ym1kb2FTQnRZV2R1YVdacFkyRWdaWFp2IiwiYnMiOiJjM1dRUFFyQ1FCQ0ZzZDNLVXRJNHBGQVFGVTBPSUtLcDFDSW5rQ1daSkl1N0dfSmJXSG9id1V1SWpjZHlNQWtKYU1ySHZPLTl4N0F6bTdzRlNvbUFXUTZTZzBKQnFrZ1I5bmlNZFJnSk9QRlFpMEI0SERhajU4U2FHN09rQl9GUlZvaHFFSFpncGx0TXlibndFSWdEWjdjOWdSZmh0UzNZak40WHl6VG9fSTJzamVoeFZSbWJXS2FZWGFfMVJSQzg3aWxxTXFQT3FidGRpWGxIWkpULUdGdTJzVTc2U05VbFc1R3hrSzNjZ211ZlZuQWRZZ3FFQjBMbV81X2psREYxM1JKclpTeVRIdXozUVlCbFBCeDhBQSIsImlkIjoiZmNfNCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJTa2M1U210UFVHZHVUMVJMVTJSaU56SkdjWE55UnpGc1l5MXdiRlkxUjFBME1HWXRkRmhxVTFOelozbEhPVE5CT1VsNlluVkZSelJuWWpsTlFWSlZXbTUzUlRkZlF6UmZiM1ZhRWhkNVRqWndXbko2ZUVoalRFTndPRFJRT0V0TFJXZFJZeG9pUVVaWWNrVmpjakJQVUZvNU9IaHBabTVmYjBWSllVeElTVzgwTjFWSUxUWmxVUSIsImZjdiI6IjMiLCJlaSI6InlONnBacnp4SGNMQ3A4NFA4S0tFZ1FjIiwicWMiOiJDaU5rWld4dmJtZG9hU0J0WVdkdWFXWnBZMkVnWlhadklHVmpZVzB5T1RBZ05qRWdZaEFFZmNhMEtEOCIsInF1ZXN0aW9uIjoiUXVhbmQgY2hhbmdlciBsZSBmaWx0cmUgRGVMb25naGkgTWFnbmlmaWNhIEV2byA%2FIiwibGsiOiJHaTV4ZFdGdVpDQmphR0Z1WjJWeUlHeGxJR1pwYkhSeVpTQmtaV3h2Ym1kb2FTQnRZV2R1YVdacFkyRWdaWFp2IiwiYnMiOiJjM1dRUFFyQ1FCQ0ZzZDNLVXRJNHBGQVFGVTBPSUtLcDFDSW5rQ1daSkl1N0dfSmJXSG9id1V1SWpjZHlNQWtKYU1ySHZPLTl4N0F6bTdzRlNvbUFXUTZTZzBKQnFrZ1I5bmlNZFJnSk9QRlFpMEI0SERhajU4U2FHN09rQl9GUlZvaHFFSFpncGx0TXlibndFSWdEWjdjOWdSZmh0UzNZak40WHl6VG9fSTJzamVoeFZSbWJXS2FZWGFfMVJSQzg3aWxxTXFQT3FidGRpWGxIWkpULUdGdTJzVTc2U05VbFc1R3hrSzNjZ211ZlZuQWRZZ3FFQjBMbV81X2psREYxM1JKclpTeVRIdXozUVlCbFBCeDhBQSIsImlkIjoiZmNfNCJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Magnifica Evo",
+            "link": "https://www.delonghi.com/fr-ch/ecam290-61-sb-ex-2-expresso-broyeur-automatique-magnifica-evo/p/ECAM290.61.SB%20EX%3A2",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.delonghi.com/fr-ch/ecam290-61-sb-ex-2-expresso-broyeur-automatique-magnifica-evo/p/ECAM290.61.SB%20EX%3A2&usg=AOvVaw30KXnERJZfinfcKNzJhNYm",
+            "displayed_link": "https://www.delonghi.com \u203a fr-ch \u203a ecam290-61-sb-ex-...",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e5170c88176f7d375451bee933495ec583358.jpeg",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e5170fb939544338f833a8d52e643b5f565a4.png",
+            "snippet": "Magnifica Evo. ECAM290.61.SB EX:2. Expresso broyeur automatique \u00e9l\u00e9gant et intuitif avec choix de caf\u00e9s et de boissons au lait classiques ...",
+            "snippet_highlighted_words": [
+                "Magnifica Evo",
+                "ECAM290",
+                "61"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 529.0,
+                        "currency": "CHF"
+                    },
+                    "extensions": [
+                        "529,00 CHF"
+                    ]
+                }
+            },
+            "source": "De'Longhi"
+        },
+        {
+            "position": 2,
+            "title": "De'Longhi Magnifica Evo ECAM290.61 - Idealo",
+            "link": "https://www.idealo.fr/prix/202619441/de-longhi-magnifica-evo-ecam290-61.html",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.idealo.fr/prix/202619441/de-longhi-magnifica-evo-ecam290-61.html&usg=AOvVaw0ciPR_RdFH2fGstvIi6OqL",
+            "displayed_link": "https://www.idealo.fr \u203a ... \u203a Cafeti\u00e8res expresso",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e5170471d458b1d04e8fc527761468ff71910.jpeg",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e51708fa54b4c323155c98e5580ec37a56af7.jpeg",
+            "snippet": "La Magnifica Evo ECAM290.61 de De'Longhi est \u00e9quip\u00e9e d'un moulin conique en inox avec une molette pour vous permettre de r\u00e9gler le niveau de mouture souhait\u00e9.",
+            "snippet_highlighted_words": [
+                "Magnifica Evo ECAM290",
+                "61",
+                "De'Longhi"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "note": 4.1,
+                        "vote": 1,
+                        "price": 459.0,
+                        "currency": " \u20ac \u00e0 \u20ac"
+                    },
+                    "extensions": [
+                        "Note : 4,1",
+                        "\u200e1 vote",
+                        "\u200e459,00 \u20ac \u00e0 559,04 \u20ac",
+                        "\u200eEn stock Les avis ne sont pas valid\u00e9s par la recherche Google"
+                    ]
+                }
+            },
+            "source": "Idealo"
+        },
+        {
+            "position": 3,
+            "title": "Magnifica EVO ECAM290.61.B Delonghi",
+            "link": "https://www.ma-cafetiere.com/389-magnifica-evo-ecam29061b-delonghi",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.ma-cafetiere.com/389-magnifica-evo-ecam29061b-delonghi&usg=AOvVaw3peRBduFNe5JWkZLznCJsU",
+            "displayed_link": "https://www.ma-cafetiere.com \u203a ... \u203a Magnifica Delonghi",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e51708c5c4f1e483760d0d7558c5bab75da09.png",
+            "snippet": "Elle est \u00e9quip\u00e9e d'un broyeur en acier qui permet aux utilisateurs de faire le choix entre 13 niveaux de mouture gr\u00e2ce \u00e0 une simple molette. Autrement dit, ils ...",
+            "source": "Ma-Cafeti\u00e8re"
+        },
+        {
+            "position": 4,
+            "title": "ECAM290.61.B Cafeti\u00e8re automatique Magnifica Evo",
+            "link": "https://www.delonghi.com/fr-fr/manuals/ecam290-61-b-cafetiere-automatique-magnifica-evo/p/ECAM290.61.B",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.delonghi.com/fr-fr/manuals/ecam290-61-b-cafetiere-automatique-magnifica-evo/p/ECAM290.61.B&usg=AOvVaw22GUr_asfdrnll8jm5R1gw",
+            "displayed_link": "https://www.delonghi.com \u203a fr-fr \u203a manuals \u203a ECAM29...",
+            "thumbnail": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e51703c56f9f3b6667ba6f50336202c74179a.jpeg",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e5170dc715e533ab0925f3b9a1fb5f0d9d195.png",
+            "snippet": "ECAM290.61.B Cafeti\u00e8re automatique Magnifica Evo. V. ECAM290.61.B (Instruction manuals French) PDF (11.411 MB).",
+            "snippet_highlighted_words": [
+                "ECAM290",
+                "61",
+                "B",
+                "Magnifica Evo",
+                "ECAM290",
+                "61",
+                "B"
+            ],
+            "source": "De'Longhi"
+        },
+        {
+            "position": 5,
+            "title": "Expresso avec broyeur DELONGHI ECAM 290.61.B ...",
+            "link": "https://www.electrodepot.fr/expresso-avec-broyeur-delonghi-ecam-290-61-b-evo-lait.html",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.electrodepot.fr/expresso-avec-broyeur-delonghi-ecam-290-61-b-evo-lait.html&usg=AOvVaw3yQ4eLm0WfSgUlH4JCDbQ0",
+            "displayed_link": "https://www.electrodepot.fr \u203a ... \u203a Machine \u00e0 caf\u00e9 \u00e0 grain",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXwH8POvgqbP1RkqI0z40mMfz3f33y1gM0P5xjX1DuNOs6a1zbM5n&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e5170cdf29a584ec9beb8d74bb26356e7ef23.png",
+            "snippet": "Prix bas \u26a1 Achetez votre Expresso avec broyeur DELONGHI ECAM 290.61.B MAGNIFICA EVO LATTE pas cher, au meilleur prix sur electrodepot.fr \u27bd Disponibilit\u00e9 ...",
+            "snippet_highlighted_words": [
+                "DELONGHI",
+                "B MAGNIFICA EVO"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "note": 4.4,
+                        "avis": 55,
+                        "price": 459.0,
+                        "currency": " \u20ac"
+                    },
+                    "extensions": [
+                        "Note : 4,4",
+                        "\u200e55 avis",
+                        "\u200e459,00 \u20ac",
+                        "\u200eEn stock Les avis ne sont pas valid\u00e9s par la recherche Google"
+                    ]
+                }
+            },
+            "source": "Electro Depot"
+        },
+        {
+            "position": 6,
+            "title": "Machine \u00e0 caf\u00e9 De'Longhi Magnifica Evo ECAM290.61.B",
+            "link": "https://www.coffeefriend.fr/p/machine-a-cafe-delonghi-magnifica-evo-ecam290-61-b/",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.coffeefriend.fr/p/machine-a-cafe-delonghi-magnifica-evo-ecam290-61-b/&usg=AOvVaw0BKAs5L19E-Sy4aRZnL765",
+            "displayed_link": "https://www.coffeefriend.fr \u203a machine-a-cafe-delonghi-...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMEukZwcBaIgqtsHNupeQhbhdhtfK7BKVZsNRWRL8hsv5afzQynfT&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e517032f15d346bf0ca0a4d9564f797820ff5.png",
+            "date": "17 oct. 2022",
+            "snippet": "Gr\u00e2ce \u00e0 ce mod\u00e8le \u201cMagnifica Evo\u201d, vous pouvez cr\u00e9er une boisson MyLatte personnalis\u00e9e : il suffit de s\u00e9lectionner la quantit\u00e9 de lait \u00e0 ...",
+            "snippet_highlighted_words": [
+                "Magnifica Evo"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "note": 5,
+                        "avis": 2,
+                        "price": 429.0,
+                        "currency": " \u20ac"
+                    },
+                    "extensions": [
+                        "Note : 5",
+                        "\u200e2 avis",
+                        "\u200e429,00 \u20ac",
+                        "\u200e\u00c9puis\u00e9 Les avis ne sont pas valid\u00e9s par la recherche Google"
+                    ]
+                }
+            },
+            "source": "coffeefriend.fr"
+        },
+        {
+            "position": 7,
+            "title": "DeLonghi ECAM 290.61.B Machine \u00e0 caf\u00e9 automatique",
+            "link": "https://www.amazon.fr/DeLonghi-Magnifica-expresso-technologie-ECAM290-61-B/dp/B0BF5YXTMX",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.amazon.fr/DeLonghi-Magnifica-expresso-technologie-ECAM290-61-B/dp/B0BF5YXTMX&usg=AOvVaw16BlwD1WbqBz82ndjHWRY2",
+            "displayed_link": "https://www.amazon.fr \u203a DeLonghi-Magnifica-expresso...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78x72-JYHu7XT6Xn-QZXG9h4riE7H0aFcEE7X_Ylj_AZ4d9l206H9&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e51706e8d381176ce7cd11e249cb514d8e40c.png",
+            "snippet": "Description. Voiture compl\u00e8te Delo. De'Longhi Magnifica Evo ECAM290.61 B. Images et vid\u00e9os. DeLonghi ECAM 290.61.B Machine \u00e0 caf\u00e9 automatique.",
+            "snippet_highlighted_words": [
+                "De'Longhi Magnifica Evo ECAM290.61 B"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "note": 3.6,
+                        "avis": 3,
+                        "price": 469.99,
+                        "currency": " \u20ac Les avis ne sont pas valid\u00e9s par la recherche Google"
+                    },
+                    "extensions": [
+                        "Note : 3,6",
+                        "\u200e3 avis",
+                        "\u200e469,99 \u20ac Les avis ne sont pas valid\u00e9s par la recherche Google"
+                    ]
+                }
+            },
+            "source": "Amazon"
+        },
+        {
+            "position": 8,
+            "title": "DELONGHI MAGNIFICA EVO ECAM290 61B - Achat & prix",
+            "link": "https://www.fnac.com/DELONGHI-MAGNIFICA-EVO-ECAM290-61B/a16291567/w-4",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.fnac.com/DELONGHI-MAGNIFICA-EVO-ECAM290-61B/a16291567/w-4&usg=AOvVaw26pPimrfYho4CHh5ePKUMW",
+            "displayed_link": "https://www.fnac.com \u203a DELONGHI-MAGNIFICA-EV...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf18JE5XpfITBuXw7qAFx7_OCikgRnk-NdiEJERl_Yh47TvHnkj5LF&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e5170b2a7b7d56612646ccf35ee85e81a26e6.png",
+            "snippet": "DELONGHI MAGNIFICA EVO ECAM290 61B. Expresso. Pression : 15 bar. Puissance : 1450 Watts. Remise de 5% pour les adh\u00e9rents et retrouvez nos caract\u00e9ristiques ...",
+            "snippet_highlighted_words": [
+                "DELONGHI MAGNIFICA EVO ECAM290 61B"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 465.0,
+                        "currency": "\u20ac"
+                    },
+                    "extensions": [
+                        "465,00 \u20ac",
+                        "\u200eEn stock"
+                    ]
+                }
+            },
+            "source": "Fnac"
+        },
+        {
+            "position": 9,
+            "title": "Machine Expresso Delonghi Magnifica Evo ECAM290.61.B",
+            "link": "https://www.e.leclerc/fp/machine-expresso-delonghi-magnifica-evo-ecam290-61-b-8004399021396",
+            "redirect_link": "https://www.google.fr/url?sa=t&url=https://www.e.leclerc/fp/machine-expresso-delonghi-magnifica-evo-ecam290-61-b-8004399021396&usg=AOvVaw3eDaCncTXYRn8tnuNfA2QX",
+            "displayed_link": "https://www.e.leclerc \u203a ... \u203a Expresso broyeur Delonghi",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTskwwj9e9zgM4hQxgdFw8tdemOlgPl4oZRg-NOPPOVZ8A_wwrf7HId&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/66a9dec6d3aba24f6e2ac6f0/images/c3f17669b4148e2bbdc20923219e51709905d104631dc38c598e811913fdcaf4.png",
+            "snippet": "Ce mod\u00e8le permet de pr\u00e9parer un expresso, un caf\u00e9 noir ordinaire, la recette MyLatte, un cappuccino et de l'eau chaude pour une tasse de th\u00e9. De plus, vous ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "price": 529.0,
+                        "currency": "\u20ac"
+                    },
+                    "extensions": [
+                        "529,00 \u20ac",
+                        "\u200eEn stock"
+                    ]
+                }
+            },
+            "source": "Leclerc"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=10&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8NMDegQIKBAW",
+        "other_pages": {
+            "2": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=10&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAE",
+            "3": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=20&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAG",
+            "4": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=30&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAI",
+            "5": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=40&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAK",
+            "6": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=50&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAM",
+            "7": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=60&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAO",
+            "8": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=70&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAQ",
+            "9": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=80&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAS",
+            "10": "https://www.google.fr/search?q=DeLonghi+Magnifica+Evo+ECAM290.61.B&sca_esv=5caaf0c1b0a489d0&hl=fr&gl=fr&ei=yN6pZrzxHcLCp84P8KKEgQc&start=90&sa=N&sstk=Aagrsuir8CFmv5RG1F165MdZWwp5o85ubkv4RNnvIliC8Vi9If0UTDZzbfYcHlnajx-aTXJYSDePro2Nma1nUBuOqq1eRV4w1YmlCA&ved=2ahUKEwi89Zqd2NCHAxVC4ckDHXARIXAQ8tMDegQIKBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=fr&google_domain=google.fr&hl=fr&location=Paris%2C+Paris%2C+Ile-de-France%2C+France&q=DeLonghi+Magnifica+Evo+ECAM290.61.B&start=90"
+        }
+    }
+}

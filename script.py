@@ -1,8 +1,13 @@
+import os
+from dotenv import load_dotenv
 import requests
 from serpapi import GoogleSearch
 import json
 import pandas as pd
 from tabulate import tabulate
+
+# Charger les variables d'environnement à partir du fichier .env
+load_dotenv()
 
 # Fonction pour extraire le nom du produit depuis l'URL fournie
 def extract_product_name(url):
@@ -19,7 +24,8 @@ def extract_product_name(url):
     return None
 
 # Fonction pour effectuer une recherche via l'API SERP et retourner les résultats
-def search_product_on_serpapi(product_name, api_key):
+def search_product_on_serpapi(product_name):
+    api_key = os.getenv("SERPAPI_KEY")
     search = GoogleSearch({
         "q": product_name,
         "location": "Paris,Paris,Ile-de-France,France",
@@ -80,11 +86,8 @@ if __name__ == "__main__":
     if product_name:
         print(f"Product Name: {product_name}")
 
-        # Clé API SERP
-        api_key = "264173cf19ec42d2fb91065ffa1a8c9e8a283c35a62d873aab8fc76331a7bdfc"
-
         # Recherche du produit sur SERP
-        serp_results = search_product_on_serpapi(product_name, api_key)
+        serp_results = search_product_on_serpapi(product_name)
 
         # Sauvegarde des résultats SERP dans un fichier JSON
         save_serp_results(serp_results, "serp_results.json")
