@@ -1,112 +1,96 @@
+# seo-paa
 
-# Product Information Extractor and SERP Analyzer
+[![PyPI version](https://badge.fury.io/py/seo-paa.svg)](https://pypi.org/project/seo-paa/)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## Overview
+Extract **People Also Ask (PAA)** questions from Google SERP via SerpAPI — for SEO content research and topic clustering.
 
-This Python project is designed to extract product information from a given URL, perform a search using the SerpAPI, and analyze the search results. The project includes functionality to extract the product name, search for related questions, prices, and ratings, and present this information in a structured table format. The results can be saved to a JSON file for further analysis.
+## Install
 
-## Sample Results
-
-| Q/A | Question                                           | Snippet                                                                                                                                                                                             |
-|-----|----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Quelle est la meilleure DeLonghi Magnifica ?       | Il s'agit d'une version améliorée de la mythique ECAM 22.140. B avec une buse vapeur plus performante, des fonctionnalités plus poussées et un look plus moderne. La gamme Magnifica S Smart de DeLonghi a été élue meilleure machine d'entrée de gamme selon nos tests experts. |
-| 2   | Qu'est-ce que ECAM chez DeLonghi ?                 | Les machines à café Delonghi Ecam via leur grand réservoir d'eau, leur moulin à café performant et leur buse à mousse de lait, proposent des cafés de qualité irréprochable.                                                               |
-| 3   | Quelle différence entre Magnifica et Magnifica s ? | Verdict. C'est d'une très courte tête que la Magnifica S remporte ce duel. Un chouia plus rapide et plus compacte que la Magnifica Evo, elle offre des performances équivalentes à celles de sa successeure, qui peut toutefois se targuer d'être mieux soignée et d'embarquer un panneau de commande plus complet. |
-| 4   | Quand changer le filtre DeLonghi Magnifica Evo ?   | Quand changer le filtre de la Delonghi Magnifica S ? Comme expliqué plus haut, il faut changer votre filtre environ tous les 2 mois.                                                                                                        |
-
-
-## Features
-
-- **Product Name Extraction**: Automatically extracts the product name from the provided URL.
-- **SERP Search**: Uses SerpAPI to perform a search based on the extracted product name.
-- **Data Extraction**: Extracts related questions, prices, and ratings from the SERP results.
-- **Data Analysis**: Calculates the average price and average rating based on the extracted data.
-- **Data Presentation**: Displays the extracted and calculated information in a structured table format.
-- **Data Storage**: Saves the SERP results to a JSON file for future reference.
-
-## Prerequisites
-
-Before running this project, ensure you have the following installed:
-
-- Python 3.x
-- Required Python packages: `requests`, `serpapi`, `json`, `pandas`, `tabulate`
-
-You can install the required Python packages using the following command:
-
-\`\`\`bash
-pip install requests serpapi pandas tabulate
-\`\`\`
-
-## Setup
-
-1. **Clone the Repository**:
-
-    \`\`\`bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
-    \`\`\`
-
-2. **Store Your API Key**:
-    - Create a file named `keys.txt` in the project directory.
-    - Add your SerpAPI key in the following format:
-
-    \`\`\`plaintext
-    api_key = "your_serpapi_key"
-    \`\`\`
-
-3. **Configure .gitignore**:
-    Ensure that `keys.txt` is added to your `.gitignore` file to prevent it from being tracked by Git:
-
-    \`\`\`plaintext
-    # Ignore the API key file
-    keys.txt
-    \`\`\`
+```bash
+pip install seo-paa
+```
 
 ## Usage
 
-1. **Extract Product Name and Perform Search**:
-    - Modify the URL in the `main` function of `script.py` to the URL of the product you want to analyze.
-    - Run the script:
+### Python API
 
-    \`\`\`bash
-    python script.py
-    \`\`\`
+```python
+from seo_paa import PAAScraper
 
-2. **View Results**:
-    - The script will print the product name, related questions, average price, and average rating.
-    - SERP results will be saved to `serp_results.json`.
+scraper = PAAScraper(api_key="your_serpapi_key", lang="en", country="us")
 
-## Script Explanation
+results = scraper.get_paa("best surf camp senegal", max_results=10)
+for r in results:
+    print(r.question)
+    print(r.snippet)
+    print()
+```
 
-### `script.py`
+Output:
+```
+Is Senegal good for surfing?
+Yes, Ngor Island is considered one of West Africa's best surf spots...
 
-- **Imports**: The script imports necessary libraries for HTTP requests, JSON handling, data manipulation, and display.
-- **Function Definitions**:
-  - `extract_product_name(url)`: Extracts the product name from the given URL using a HTTP GET request.
-  - `search_product_on_serpapi(product_name, api_key)`: Performs a SERP search using SerpAPI and returns the results.
-  - `extract_serp_info(serp_results)`: Extracts related questions, prices, and ratings from the SERP results.
-  - `calculate_averages(prices, ratings, reviews_count)`: Calculates average price and average rating.
-  - `save_serp_results(serp_results, filename)`: Saves SERP results to a JSON file.
-  - `print_serp_info_as_table(related_questions, prices, avg_price, avg_rating, reviews_count)`: Displays the extracted and calculated information in a table format.
+Best time to surf in Senegal?
+The main surf season runs from November to April...
+```
 
-- **Main Execution**:
-  - The script extracts the product name from the provided URL.
-  - Reads the API key from `keys.txt`.
-  - Performs a SERP search using the extracted product name and API key.
-  - Extracts related questions, prices, and ratings from the search results.
-  - Calculates average price and average rating.
-  - Saves the SERP results to a JSON file.
-  - Displays the information in a structured table format.
+### Return as plain dicts (for pandas / JSON)
+
+```python
+import pandas as pd
+
+data = scraper.get_paa_dict("surf camp west africa")
+df = pd.DataFrame(data)
+df.to_csv("paa_results.csv", index=False)
+```
+
+### Extract from a product URL
+
+Extracts the product name from a page's JSON-LD Product schema, then fetches PAA:
+
+```python
+results = scraper.get_paa_from_url("https://example.com/product/surf-board")
+```
+
+### CLI
+
+```bash
+# Basic usage (set SERPAPI_KEY env var)
+seo-paa "best surf camp senegal"
+
+# With options
+seo-paa "best surf camp" --lang fr --country fr --max 5
+
+# JSON output (pipe to jq, save to file, etc.)
+seo-paa "surf senegal" --json | jq '.[].question'
+```
+
+## Configuration
+
+| Parameter | Description | Default |
+|---|---|---|
+| `api_key` | SerpAPI key (or `SERPAPI_KEY` env var) | — |
+| `lang` | Language code (`en`, `fr`, `es`…) | `"en"` |
+| `country` | Country code (`us`, `fr`, `gb`…) | `"us"` |
+| `location` | Full location string (e.g. `"Paris,Ile-de-France,France"`) | `None` |
+
+## Why PAA matters for SEO
+
+PAA questions are a direct signal of what users ask around a topic. Mining them at scale lets you:
+
+- Build FAQ sections that target featured snippets
+- Identify content gaps vs. competitors
+- Cluster topics for pillar/cluster content strategies
+- Feed into content briefs and internal linking maps
+
+## Requirements
+
+- Python 3.9+
+- SerpAPI key ([serpapi.com](https://serpapi.com))
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- This project uses the [SerpAPI](https://serpapi.com/) to retrieve search results.
-- Data manipulation and presentation are facilitated by the `pandas` and `tabulate` libraries.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more information.
+MIT — [Simon Azoulay](https://github.com/monsiaz)

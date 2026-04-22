@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "seo-paa"
+version = "0.1.0"
+description = "Extract People Also Ask (PAA) questions from Google SERP — for SEO content research"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Simon Azoulay", email = "s.azoulay@graciamediaweb.com" }]
+keywords = ["seo", "serp", "people-also-ask", "paa", "content-research", "scraping", "automation"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.28",
+    "google-search-results>=2.4",
+    "pandas>=1.5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "twine", "build"]
+
+[project.urls]
+Homepage = "https://github.com/monsiaz/PAA-NOTICES"
+Repository = "https://github.com/monsiaz/PAA-NOTICES"
+"Bug Tracker" = "https://github.com/monsiaz/PAA-NOTICES/issues"
+
+[project.scripts]
+seo-paa = "seo_paa.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
